@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Logout to SUBMIT files
+Comment=Shutdown or Reboot
+Icon=bookmarks
+Exec=sudo -u root /usr/local/bin/logout-to-submit.sh
+NoDisplay=true
